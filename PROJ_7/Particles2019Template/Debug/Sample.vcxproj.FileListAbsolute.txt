@@ -1,0 +1,5 @@
+C:\MJB\CS575\Particles2019\Debug\Sample.exe
+C:\MJB\CS575\Particles2019\Debug\Sample.pdb
+C:\MJB\CS575\Particles2019Template\Debug\Sample.exe
+C:\MJB\CS575\Particles2019Template\Debug\Sample.pdb
+A:\SKOOKS\YEAR 3\CS475\PROJ_7\Particles2019Template\Debug\Sample.exe

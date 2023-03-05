@@ -1,0 +1,3 @@
+C:\MJB\CS575\First\Debug\First.exe
+C:\MJB\CS575\First\Debug\First.pdb
+A:\SKOOKS\YEAR 3\CS475\PROJ_6\First\Debug\First.exe
